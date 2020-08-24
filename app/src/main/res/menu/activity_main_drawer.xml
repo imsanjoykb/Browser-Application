@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Search Engine">
+        <menu>
+        <item
+            android:id="@+id/nav_gogle"
+            android:icon="@drawable/ic_google"
+            android:title="Google"
+           android:iconTint="@android:color/white"/>
+        <item
+            android:id="@+id/nav_yahoo"
+            android:icon="@drawable/ic_yahoo"
+            android:title="Yahoo" />
+        <item
+            android:id="@+id/nav_bing"
+            android:icon="@drawable/ic_bing"
+            android:title="Bing" />
+
+        </menu>
+        </item>
+
+
+        <item android:title="Virtual Communication">
+        <menu>
+        <item
+            android:id="@+id/nav_fascebook"
+            android:icon="@drawable/ic_facebook"
+            android:title="Facebook" />
+
+
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_twitter"
+                android:title="Twitter" />
+
+            <item
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/ic_instagram"
+                android:title="Instagram" />
+
+            <item
+                android:id="@+id/nav_snapcaht"
+                android:icon="@drawable/ic_snap"
+                android:title="Pinterest" />
+
+
+
+            <item
+                android:id="@+id/nav_skype"
+                android:icon="@drawable/ic_skype"
+                android:title="Linkedin" />
+
+
+
+
+
+        </menu>
+        </item>
+
+
+        <item android:title="Entertainment Site">
+        <menu>
+        <item
+            android:id="@+id/nav_youtube"
+            android:icon="@drawable/ic_youtube"
+            android:title="Youtube" />
+
+            <item
+                android:id="@+id/nav_biscope"
+                android:icon="@drawable/ic_radio_button_checked_black_24dp"
+                android:title="MoreWap" />
+
+            <item
+                android:id="@+id/nav_dailymotion"
+                android:icon="@drawable/ic_dailymotion"
+                android:title="Daily Motion" />
+
+            <item
+                android:id="@+id/nav_imdb"
+                android:icon="@drawable/ic_imbd"
+                android:title="IMDB"
+                android:iconTint="@android:color/white"/>
+
+            <item
+                android:id="@+id/nav_waptubes"
+                android:icon="@drawable/ic_waptubes"
+                android:title="Waptubes" />
+
+        </menu>
+        </item>
+
+
+
+
+        <item android:title="Sports and Game">
+        <menu>
+
+        <item
+            android:id="@+id/nav_cricbuzz"
+            android:icon="@drawable/ic_cricbuzz"
+            android:title="CricBuzz" />
+
+            <item
+                android:id="@+id/nav_cryahoo"
+                android:icon="@drawable/ic_golf_course_black_24dp"
+                android:title="Yahoo Cricket"/>
+
+            <item
+                android:id="@+id/nav_espn"
+                android:icon="@drawable/ic_espncric"
+                android:title="ESPNcricinfo"/>
+
+            <item
+                android:id="@+id/nav_espnfc"
+                android:icon="@drawable/ic_espn"
+                android:title="ESPN FC"/>
+
+
+            <item
+                android:id="@+id/nav_dhakasports"
+                android:icon="@drawable/ic_dhakasport"
+                android:title="Dhaka sports live"/>
+
+        </menu>
+        </item>
+
+        <item android:title="Buying and Selling">
+        <menu>
+
+        <item
+            android:id="@+id/nav_bikroy"
+            android:icon="@drawable/ic_bikroy"
+            android:title="Bikroy.com" />
+
+            <item
+                android:id="@+id/nav_sellbazar"
+                android:icon="@drawable/ic_ebay"
+                android:title="eBay" />
+
+            <item
+                android:id="@+id/nav_amazon"
+                android:icon="@drawable/ic_amazon"
+                android:title="Amazon.com" />
+
+
+
+        </menu>
+        </item>
+
+
+
+
+
+
+    </group>
+
+
+
+    </menu>

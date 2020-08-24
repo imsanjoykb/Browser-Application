@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_translate"
+        android:orderInCategory="100"
+        android:title="BdLocal Jobs"
+        android:icon="@drawable/ic_translate"
+        app:showAsAction="never" />
+
+
+
+    <item
+        android:id="@+id/action_dropbox"
+        android:orderInCategory="100"
+        android:title="Drop Box"
+        android:icon="@drawable/ic_dropbox"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_app"
+        android:orderInCategory="100"
+        android:title="9app"
+        android:icon="@drawable/ic_dropbox"
+        app:showAsAction="never" />
+
+
+
+    <item
+        android:id="@+id/action_aboutdeveloper"
+        android:orderInCategory="100"
+        android:title="About Developer"
+        app:showAsAction="never" />
+
+
+
+
+
+    <item
+        android:id="@+id/action_telegram"
+        android:orderInCategory="100"
+
+        android:icon="@drawable/ic_allmp"
+        android:title="Allmp3song"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_downloder"
+        android:icon="@drawable/ic_download"
+        android:orderInCategory="100"
+        android:title="Downloder"
+        app:showAsAction="always" />
+
+
+
+
+
+</menu>
+
+
